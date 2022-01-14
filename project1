@@ -1,0 +1,16 @@
+project:
+  status: active
+  displayName: Mohit Singh
+  projectId: Ms3044602
+  chargingCode: "98524904"    
+  folder: autonomous
+  owners:
+    - anders.soderwintergren@creatorstudio.com
+    - viktor.melker@creatorstudio.com
+  environment: nprod
+  labels:
+    business_unit: not_set
+    application_service: not_set
+  additionalIamRoles:
+    editor:
+      - roles/dns.admin
