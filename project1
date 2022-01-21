@@ -1,0 +1,21 @@
+project:
+  status: active
+  displayName: CS Sandbox
+  projectId: cssandbox
+  chargingCode: "98514901"    #FAB code
+  folder: autonomous
+  owners:
+    - anders.soderwintergren@creatorstudio.com
+    - viktor.melker@creatorstudio.com
+    - simon.wahlgren@creatorstudio.com
+    - jacob.schennings
+    - david.nogen@creatorstudio.com
+    - gabriel.markfjard@creatorstudio.com
+    - patricia.melin
+  environment: nprod
+  labels:
+    business_unit: not_set
+    application_service: not_set
+  additionalIamRoles:
+    editor:
+      - roles/dns.admin
