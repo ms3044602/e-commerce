@@ -1,0 +1,15 @@
+project:
+  status: active
+  displayName: CS Sa
+  projectId: cssand
+  chargingCode: "98514933"
+  folder: autonomous
+  owners:
+    -mohit.singh
+  environment: nprod
+  labels:
+    business_unit: not_set
+    application_service: not_set
+  additionalIamRoles:
+    editor:
+      - roles/dns.admin
